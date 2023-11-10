@@ -668,6 +668,7 @@ class Woo_Order_Weight_Admin {
 				return $fields;
 		 endif;
 	 }
+	 return $fields;
  }
 
 }

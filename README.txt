@@ -3,7 +3,7 @@ Contributors: andreaskarman
 Tags: woocommerce, woocommerce order, woocommerce order weight, woocommerce plugin, order, orders, weight, ecommerce, shop
 Requires at least: 5.0
 Tested up to: 6.3
-Stable tag: 1.2
+Stable tag: 1.2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -66,6 +66,9 @@ Bugs can be reported either in the support forum or preferably in the [plugin Gi
 6. WooCommerce Analytics
 
 == Changelog ==
+
+= 1.2.1 - 2023/11/09 =
+* Fixed incorrect usage of woocommerce_email_order_meta_fields in the plugin
 
 = 1.2 - 2023/03/29 =
 * Added order weight data to WooCommerce Analytics
